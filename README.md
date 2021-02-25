@@ -1,2 +1,2 @@
 # dogBreedClassifierBeta
-A python implementation of a dog breed classifier trained on the Standford dataset using Keras (TF)
+A python implementation of a dog breed classifier trained on the Stanford dataset using Keras (TF)
