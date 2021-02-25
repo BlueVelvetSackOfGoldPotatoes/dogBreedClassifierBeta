@@ -1,0 +1,1 @@
+# to output to this file use ./main.py > out.txt
