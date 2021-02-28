@@ -26,4 +26,4 @@ MobileNetV2 - accuracy around 70% after 30 epochs (with clear stagnation of lear
         print(top_matches)
     '''
     
-    main.py is a standalone program.r
+    main.py is a standalone program
